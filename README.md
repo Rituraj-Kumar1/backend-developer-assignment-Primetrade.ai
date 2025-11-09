@@ -501,30 +501,6 @@ taskkill /PID <PID> /F
 - Clear localStorage
 - Login again
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the ISC License.
-
-## 👤 Author
-
-**Rituraj Kumar**
-
-- Email: rituraj123@gmail.com
-- GitHub: [@Rituraj-Kumar1](https://github.com/Rituraj-Kumar1)
-
-## 🙏 Acknowledgments
-
-- MERN stack community
-- All open-source contributors
-
 ---
 
-**Made with ❤️ using MERN Stack (MongoDB, Express.js, React.js, Node.js) + Tailwind CSS**
+**Built with MERN Stack (MongoDB, Express.js, React.js, Node.js) + Tailwind CSS**
