@@ -1,0 +1,26 @@
+{"level":"info","message":"Server running in development mode on port 5000","service":"backend-api","timestamp":"2025-11-09 17:03:07"}
+{"level":"info","message":"API Documentation available at http://localhost:5000/api-docs","service":"backend-api","timestamp":"2025-11-09 17:03:07"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"backend-api","timestamp":"2025-11-09 17:03:07"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"backend-api","timestamp":"2025-11-09 17:03:30"}
+{"level":"info","message":"API Documentation available at http://localhost:5000/api-docs","service":"backend-api","timestamp":"2025-11-09 17:03:30"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"backend-api","timestamp":"2025-11-09 17:03:30"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"backend-api","timestamp":"2025-11-09 17:03:53"}
+{"level":"info","message":"API Documentation available at http://localhost:5000/api-docs","service":"backend-api","timestamp":"2025-11-09 17:03:53"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"backend-api","timestamp":"2025-11-09 17:03:53"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"backend-api","timestamp":"2025-11-09 17:53:19"}
+{"level":"info","message":"API Documentation available at http://localhost:5000/api-docs","service":"backend-api","timestamp":"2025-11-09 17:53:19"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"backend-api","timestamp":"2025-11-09 17:53:19"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"backend-api","timestamp":"2025-11-09 17:58:22"}
+{"level":"info","message":"API Documentation available at http://localhost:5000/api-docs","service":"backend-api","timestamp":"2025-11-09 17:58:23"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"backend-api","timestamp":"2025-11-09 17:58:23"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"backend-api","timestamp":"2025-11-09 18:05:52"}
+{"level":"info","message":"API Documentation available at http://localhost:5000/api-docs","service":"backend-api","timestamp":"2025-11-09 18:05:52"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"backend-api","timestamp":"2025-11-09 18:05:52"}
+{"level":"info","message":"New user registered: rituraj123@gmail.com","service":"backend-api","timestamp":"2025-11-09 18:06:49"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"backend-api","timestamp":"2025-11-09 18:10:11"}
+{"level":"info","message":"API Documentation available at http://localhost:5000/api-docs","service":"backend-api","timestamp":"2025-11-09 18:10:11"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"backend-api","timestamp":"2025-11-09 18:10:11"}
+{"level":"info","message":"User logged in: rituraj123@gmail.com","service":"backend-api","timestamp":"2025-11-09 18:11:45"}
+{"level":"info","message":"Task created: 69108d6d0530a2f1004ad222 by user: rituraj123@gmail.com","service":"backend-api","timestamp":"2025-11-09 18:17:41"}
+{"level":"info","message":"Task updated: 69108d6d0530a2f1004ad222 by user: rituraj123@gmail.com","service":"backend-api","timestamp":"2025-11-09 18:17:58"}
+{"level":"info","message":"User logged out: rituraj123@gmail.com","service":"backend-api","timestamp":"2025-11-09 18:18:05"}

@@ -1,0 +1,10 @@
+node_modules/
+.env
+# logs/ - Keeping logs for assignment submission as requested
+# *.log - Keeping logs for assignment submission as requested
+.DS_Store
+dist/
+build/
+coverage/
+.vscode/
+.idea/
