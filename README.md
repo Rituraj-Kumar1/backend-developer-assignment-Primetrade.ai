@@ -515,26 +515,15 @@ This project is licensed under the ISC License.
 
 ## 👤 Author
 
-**Your Name**
+**Rituraj Kumar**
 
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: rituraj123@gmail.com
+- GitHub: [@Rituraj-Kumar1](https://github.com/Rituraj-Kumar1)
 
 ## 🙏 Acknowledgments
 
-- Backend assignment requirements from Bajarangs
 - MERN stack community
 - All open-source contributors
-
----
-
-## 📞 Contact
-
-For any queries regarding this assignment:
-
-- **Email**: saami@bajarangs.com, nagasai@bajarangs.com, chetan@bajarangs.com
-- **CC**: sonika@primetrade.ai
-- **Subject**: Backend Developer Task - Backend Developer Intern
 
 ---
 
