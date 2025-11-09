@@ -241,14 +241,6 @@ Clear localStorage and login again:
 localStorage.clear();
 ```
 
-## 📄 License
-
-ISC
-
-## 👤 Author
-
-Your Name
-
 ---
 
-Made with ❤️ using React + Vite + Tailwind CSS
+Built with React + Vite + Tailwind CSS

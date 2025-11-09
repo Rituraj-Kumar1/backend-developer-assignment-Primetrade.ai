@@ -281,18 +281,6 @@ npm run dev
 npm start
 ```
 
-## 📄 License
-
-ISC
-
-## 👤 Author
-
-Your Name
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
 ---
 
 **Note**: Remember to change JWT secrets and other sensitive information in production!
